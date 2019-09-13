@@ -1,0 +1,12 @@
+.counter-wrapper{
+    border: 1px solid red;
+    width: 50px;
+    padding: 2px;
+    text-align: center;
+    height : 18px;
+    overflow : hidden;
+
+}
+.sliding-wrapper{
+    transition : transform 200ms;
+}
